@@ -17,6 +17,7 @@
         echo "Welcome " . $row['name'];
         
     }
+    
     include 'header.php'
 ?>
 <?php

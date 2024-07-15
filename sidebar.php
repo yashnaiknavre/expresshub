@@ -26,6 +26,7 @@
               <i class="nav-icon fas fa-boxes"></i>
               <p>
                 Parcels
+                
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>
