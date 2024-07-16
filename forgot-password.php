@@ -94,6 +94,7 @@ if (isset($_POST['submit'])) {
 
 <body>
 <h1>hello world</h1>
+<h2>hie</h2>
     <!-- form section start -->
     <section class="w3l-mockup-form">
         <div class="container">
