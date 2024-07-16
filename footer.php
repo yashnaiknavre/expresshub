@@ -144,6 +144,7 @@ $('.number').on('input keyup keypress',function(){
 
 <!-- AdminLTE for demo purposes -->
 <script src="assets/dist/js/demo.js"></script>
+
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="assets/dist/js/pages/dashboard2.js"></script>
 <!-- DataTables  & Plugins -->
