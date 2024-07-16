@@ -4,7 +4,7 @@ $msg = "";
 
 include 'config.php';
 
-// this is the reset funtion
+
 if (isset($_GET['reset'])) {
     if (mysqli_num_rows(mysqli_query($conn, "SELECT * FROM user WHERE code='{$_GET['reset']}'")) > 0) {
         if (isset($_POST['submit'])) {
