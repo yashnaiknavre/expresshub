@@ -20,7 +20,7 @@
               </p>
             </a>
           </li>     
-          
+          <!-- <h1>changes in sidebar</h1> -->
           <li class="nav-item">
             <a href="#" class="nav-link nav-edit_parcel">
               <i class="nav-icon fas fa-boxes"></i>
