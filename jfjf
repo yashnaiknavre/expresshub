@@ -28,8 +28,8 @@
                         $mail->isSMTP();                                            //Send using SMTP
                         $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
                         $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-                        $mail->Username   = 'express.hub.service@gmail.com';                     //SMTP username
-                        $mail->Password   = 'xmihallgkjsucfsw';                               //SMTP password
+                        $mail->Username   = 'Abc@gmail.com';                     //SMTP username
+                        $mail->Password   = 'add the password';                               //SMTP password
                         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
                         $mail->Port       = 465; 
                         
@@ -37,7 +37,7 @@
 
 
                         //Recipients
-                        $mail->setFrom('express.hub.service@gmail.com');
+                        $mail->setFrom('Abc@gmail.com');
                         $mail->addAddress($email);
 
                         //Content
